@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-# React + Vite
+eCommerce React Frontend
+Overview-
+This project is a frontend application for an eCommerce platform built with React. It provides a modern and responsive user interface for browsing products, viewing product details, managing a shopping cart, and completing purchases. The application interacts with a backend API to fetch product data and manage user interactions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features-
+Product Listing: View a list of products with filtering and search capabilities.
+Product Details: View detailed information about each product, including images, descriptions, and ratings.
+Shopping Cart: Add products to the cart, adjust quantities, and view the total price.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# EcommerceReact
->>>>>>> 9678c480b6f2d4abc74d7d43f1639ddbe7939034
+Technologies Used
+React: Frontend library for building user interfaces.
+React Router: For client-side routing.
+Context API: For state management of the shopping cart.
+Tailwind CSS: For styling and responsive design.
